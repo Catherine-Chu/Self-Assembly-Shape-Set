@@ -19,3 +19,15 @@
   
   ### Figure.2
   ![Figure.2](./image/Figure2.jpg)
+
+
+  Please cite our paper if you would like to use this shape set in your own research.
+> @ARTICLE{chu2021massive,
+> author={Chu, Wenjie and Zhang, Wei and Zhao, Haiyan and Jin, Zhi and Mei, Hong},
+> journal={IEEE Transactions on Automation Science and Engineering}, 
+> title={Massive Shape Formation in Grid Environments}, 
+> year={2022},
+> volume={},
+> number={},
+> pages={1-15},
+> doi={10.1109/TASE.2022.3185537}}
